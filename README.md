@@ -52,4 +52,4 @@ The frontend will run on [http://localhost:3000](http://localhost:3000)
 ---
 **Note:**
 - Make sure both servers are running for full functionality.
-- No database is required; data is stored in-memory on the backend. 
+- No database is required; data is stored in-memory on the backend. # Naksh_assignment
